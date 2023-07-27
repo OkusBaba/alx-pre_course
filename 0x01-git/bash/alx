@@ -1,4 +1,2 @@
 ii!/bin/bash
-
-
-hecho "ALX"
+echo "ALX"
